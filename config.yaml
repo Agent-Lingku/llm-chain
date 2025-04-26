@@ -1,0 +1,5 @@
+# 应用基础配置
+apiBaseUrl: "http://127.0.0.1:11434"  # API服务地址
+apiBaseKey: "sk-xxx" # API密钥
+prefix: "/api/chat"                   # API路径前缀
+logLevel: "info"                      # 日志级别 (debug|info|warn|error)
